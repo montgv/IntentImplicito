@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentImplicito</string>
+    <string name="agregarContacto">AGREGAR CONTACTO</string>
+    <string name="llamar">LLAMAR AL 112</string>
+    <string name="datosNuevoContacto">Datos del nuevo contacto</string>
+    <string name="nombreContacto">Nombre del Contacto</string>
+    <string name="telefonoContacto">Teléfono del Contacto</string>
+    <string name="emailContacto">Email del Contacto</string>
+    <string name="insertarContacto">INSERTAR CONTACTO</string>
+</resources>
